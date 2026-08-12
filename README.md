@@ -1,12 +1,12 @@
-\# 🚀 Mozhi AI
+🚀 Mozhi AI
 
 
 
-\## Real-Time Tamil → English AI Voice Translator
+Real-Time Tamil → English AI Voice Translator
 
 
 
-\*\*Speak Tamil → Translate with AI → Generate English Voice → Virtual Microphone\*\*
+Speak Tamil → Translate with AI → Generate English Voice → Virtual Microphone
 
 
 
@@ -14,11 +14,13 @@ Mozhi AI is an AI-powered voice translation application that converts spoken Tam
 
 
 
-\### 🌐 Official Website
+🌐 Official Website
 
 
 
-👉 \[Visit the Official Mozhi AI Website](https://mozhiai-seven.vercel.app/)
+👉 Visit the Official Mozhi AI Website:
+
+https://mozhiai-seven.vercel.app/
 
 
 
@@ -26,11 +28,9 @@ Explore the project, view the application showcase, and download the Windows ver
 
 
 
-\---
 
 
-
-\## 📚 Project Documentation
+📚 Project Documentation
 
 
 
@@ -38,55 +38,63 @@ All detailed documentation, code explanations, project details, technical inform
 
 
 
-👉 \[Go Directly to the Mozhi AI Wiki](https://github.com/sabariJAS/MozhiAI/wiki)
+👉 Go Directly to the Mozhi AI Wiki:
+
+https://github.com/sabariJAS/MozhiAI/wiki
 
 
 
-\---
+
+
+🔄 How It Works
 
 
 
-\## 🔄 How It Works
+Tamil Speech → Speech-to-Text → AI Translation → English Voice Generation → Virtual Microphone
 
 
 
-\*\*Tamil Speech → Speech-to-Text → AI Translation → English Voice Generation → Virtual Microphone\*\*
+
+
+🛠️ Technology
 
 
 
-\---
+Python — Core application and processing
 
 
 
-\## 🛠️ Technology
+Deepgram — Speech-to-text and voice generation
 
 
 
-\* \*\*Python\*\* — Core application and processing
-
-\* \*\*Deepgram\*\* — Speech-to-text and voice generation
-
-\* \*\*Groq\*\* — AI-powered translation
-
-\* \*\*SoundDevice\*\* — Audio recording and device routing
-
-\* \*\*SoundFile\*\* — Audio file processing
-
-\* \*\*NumPy\*\* — Audio data processing
-
-\* \*\*SciPy\*\* — WAV and audio processing
+Groq — AI-powered translation
 
 
 
-\---
+SoundDevice — Audio recording and device routing
 
 
 
-\## 💻 Platform
+SoundFile — Audio file processing
 
 
 
-\*\*Windows 10 or later\*\*
+NumPy — Audio data processing
+
+
+
+SciPy — WAV and audio processing
+
+
+
+
+
+💻 Platform
+
+
+
+Windows 10 or later
 
 
 
@@ -94,15 +102,13 @@ The application requires a microphone, internet connection, API access, and a co
 
 
 
-\---
+
+
+📌 Project Status
 
 
 
-\## 📌 Project Status
-
-
-
-\*\*Active Development\*\*
+Active Development
 
 
 
@@ -110,11 +116,9 @@ Mozhi AI is currently under development. Features, supported platforms, AI model
 
 
 
-\---
 
 
-
-\## 📖 Documentation
+📖 Documentation
 
 
 
@@ -122,17 +126,17 @@ For complete project information:
 
 
 
-👉 \[Open Mozhi AI Wiki](https://github.com/sabariJAS/MozhiAI/wiki)
+👉 Open Mozhi AI Wiki:
+
+https://github.com/sabariJAS/MozhiAI/wiki
 
 
 
-\---
+
+
+Mozhi AI
 
 
 
-\*\*Mozhi AI\*\*
-
-\*Tamil Speech → AI Translation → English Voice → Virtual Microphone\*
-
-
+Tamil Speech → AI Translation → English Voice → Virtual Microphone
 
